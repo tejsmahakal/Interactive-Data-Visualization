@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    text-align: center;
+    margin-bottom: 20px;
+    color: gray;
+}
+html , body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
+div{
+    margin-top: 100px;
+    padding: 2rem;
+    width: 500px;
+    height: 600px;
+}
